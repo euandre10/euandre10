@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @euandre10! :)
+- 👀 I’m interested in get started in my developer career.
+- 🌱 I’m currently learning anything that i can (hahaha).
