@@ -8,4 +8,4 @@
 💻 beacons.ai/euandre10 <br>
 
 <h3>Knowledge:</h3>
-<img src="https://skillicons.dev/icons?i=c,java,python,arduino&perline=4" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino&perline=5" />
