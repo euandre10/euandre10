@@ -1,11 +1,12 @@
 ## Opa, tudo certo? Eu sou o André Luiz 😉
-<h3>About me:</h3>
+
+<h4>About me:</h4>
 📌 April, 1997. <br>
-🌎 Rio de janeiro, Brazil. <br>
-🏫 Computer Science - Estácio de Sá. <br>
+🌎 Rio de Janeiro, Brazil. <br>
+🏫 Computer Science. <br>
 🗣️ Portuguese, English. <br>
 ✉️ andre_araujo@live.com <br>
 💻 beacons.ai/euandre10 <br>
 
-<h3>Knowledge:</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino&perline=5" />
+<h4>Currently working on my projects with:</h4>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python&perline=4" />
