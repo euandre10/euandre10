@@ -8,4 +8,4 @@
 💻 beacons.ai/euandre10 <br>
 
 <h4>Currently working on my projects with:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python&perline=4" />
+<img src="https://skillicons.dev/icons?i=c&perline=4" />
